@@ -33,3 +33,40 @@ To view this portfolio locally, follow these steps:
 3.  **Open `index.html` in your web browser.**
 
 ## File Structure
+
+Personal Portfolio/
+├── index.html
+├── style.css
+├── Resume.pdf
+├── Profile.png
+├── Developer.png
+└── README.md
+* `index.html`: The main HTML file.
+* `style.css`: The CSS stylesheet.
+* `Resume.pdf`: My resume file.
+* `Profile.png`: My profile image.
+* `Developer.png`: Developer image for work experience section.
+* `README.md`: This README file.
+
+## Usage
+
+Feel free to use this portfolio as a template for your own personal website. You can customize the content, styles, and images to fit your needs.
+
+## Links
+
+* **LinkedIn:** [https://www.linkedin.com/in/jaibhagwan-jindal/](https://www.linkedin.com/in/jaibhagwan-jindal/)
+* **GitHub:** [https://github.com/JaiN1014](https://github.com/JaiN1014)
+* **Instagram:** [https://www.instagram.com/jai.n_jindal/](https://www.instagram.com/jai.n_jindal/)
+
+## Credits
+
+* Typed.js: For the typing animation.
+* Google Fonts: For the Poppins font.
+
+## Author
+
+* Jaibhagwan Jindal
+
+## License
+
+This project is open source and available for anyone to use.
